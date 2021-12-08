@@ -6,7 +6,7 @@
 
 ## Who am I?
 
-Hello, my name is Alessandro. I'm a 16 years old developer based in Italy interested mainly in JVM languages,
+Hello, my name is Alessandro. I'm a developer based in Italy interested mainly in JVM languages,
 especially Java and Kotlin. Lately most of my work has been focused around reverse engineering and compilers.
 Check my pinned project to see what I love and follow me to see my next projects take shapes.
 If you want to help me out, consider becoming a sponsor :)
