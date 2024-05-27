@@ -1,6 +1,5 @@
 ### Auties00
 
-![Reddit](https://img.shields.io/reddit/user-karma/combined/Alex0589?style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/Auties00?style=for-the-badge)
 ![Sponsors](https://img.shields.io/github/sponsors/Auties00?style=for-the-badge)
 
