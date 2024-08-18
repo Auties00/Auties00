@@ -11,14 +11,15 @@ My work is focused around:
 - Compilers
 - Building software for open-source projects I like
 
-Check my pinned projects to learn more and follow me to see my next projects take shape.
+Please take a look at my pinned projects to learn more and follow me to see my next projects take shape.
 If you want to help me out, consider becoming a sponsor.
 
 ## Stack
 
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   
-  I've used Java for almost six years at this point, and many of my projects are written in Java, ranging from reverse engineering to compilers.
+  I've used Java for almost six years, and many of my projects are written in Java, ranging from reverse engineering to compilers.
+  I also used Java to develop an app published on the Play Store, Styders, which I've sunsetted some time ago.
   
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Groovy](https://img.shields.io/badge/Groovy-5E97B6?style=for-the-badge&logo=Apache%20Groovy&logoColor=white)
   
@@ -48,7 +49,8 @@ If you want to help me out, consider becoming a sponsor.
   
 
 ## Socials
-[![Telegram](https://camo.githubusercontent.com/cf4ed981404024c1adfc79d5575c4edf1836c4fe36b24b03383ece888cef7e29/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465)](https://t.me/Auties00)
-[![Reddit](https://camo.githubusercontent.com/99094e7d08f15000fe6a39872628bde2b8cf8a2a4a94ad384e50a158f09d7bf5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265646469742d4646343530303f7374796c653d666f722d7468652d6261646765266c6f676f3d726564646974266c6f676f436f6c6f723d7768697465)](https://www.reddit.com/user/Alex0589)
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/Auties00)
+
+[![Reddit](https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://www.reddit.com/user/Alex0589)
 
  
