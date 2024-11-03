@@ -14,12 +14,18 @@ My work is focused around:
 Please take a look at my pinned projects to learn more and follow me to see my next projects take shape.
 If you want to help me out, consider becoming a sponsor.
 
+## Consumer facing product I shipped (Chronological Order)
+
+1. [Styders](https://github.com/Auties00/Styders) - Android App for Styling and Customization, fully written in Java
+2. [Reboot Launcher](https://github.com/Auties00/Reboot-Launcher) - Windows Game launcher, written in Dart(Flutter) and C++
+3. [Artemis](https://github.com/Auties00/Artemis) - iOS app to stream HIDIVE content, fully written in Swift(SwiftUI)
+
 ## Stack
 
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
   
   I've used Java for almost six years, and many of my projects are written in Java, ranging from reverse engineering to compilers.
-  I also used Java to develop an app published on the Play Store, Styders, which I've sunsetted some time ago.
+  I've been also using Kotlin for around three years for mostly the same reasons.
   
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Groovy](https://img.shields.io/badge/Groovy-5E97B6?style=for-the-badge&logo=Apache%20Groovy&logoColor=white)
   
@@ -31,7 +37,7 @@ If you want to help me out, consider becoming a sponsor.
   I've had to learn Javascript and Typescript to contribute to some open-source projects like [Baileys](https://github.com/WhiskeySockets/Baileys).
   I also use them regularly when reverse engineering web apps.
 
-- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
   I've used Dart mainly for Flutter, but I also have some backends from a long time ago here on GitHub.
   Talking about Flutter, I've used it both for Mobile and Desktop development, I've also experimented with it on the Web(looking forward to full WASM support 🙂)
@@ -40,7 +46,7 @@ If you want to help me out, consider becoming a sponsor.
 - ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
   I've learned Swift to develop native apps for iOS and iPadOS. 
-  If you are interested you can check out the Artemis repo, soon the app will also be available on the App Store.
+  If you are interested you can check out the Artemis repo which is now available on the AltStore.
 
 - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
