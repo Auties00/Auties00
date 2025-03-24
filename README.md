@@ -5,7 +5,7 @@
 
 ## Who am I?
 
-Hello, my name is Alessandro. I'm a nineteen-year-old developer based in Italy.
+Hello, my name is Alessandro. I'm a twenty-year-old developer based in Italy.
 My work is focused around:
 - Reverse Engineering
 - Compilers
@@ -14,7 +14,7 @@ My work is focused around:
 Please take a look at my pinned projects to learn more and follow me to see my next projects take shape.
 If you want to help me out, consider becoming a sponsor.
 
-## Products I've shipped (Chronological Order)
+## Products I've shipped (Chronological Order - Oldest first)
 
 1. [Styders](https://github.com/Auties00/Styders) - Android App for Styling and Customization, fully written in Java
 2. [Reboot Launcher](https://github.com/Auties00/Reboot-Launcher) - Windows Game launcher, written in Dart(Flutter) and C++
