@@ -40,7 +40,7 @@ If you want to help me out, consider becoming a sponsor.
 - ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
   I've used Dart mainly for Flutter, but I also have some backends from a long time ago here on GitHub.
-  Talking about Flutter, I've used it both for Mobile and Desktop development, I've also experimented with it on the Web(looking forward to full WASM support 🙂)
+  Talking about Flutter, I've used it both for Mobile and Desktop development, I've also experimented with it on the Web.
   You can check the Reboot Launcher repo if you want to try a publicly available program for Windows that follows the FluentUI spec developed using Flutter Desktop.
 
 - ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
