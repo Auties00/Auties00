@@ -14,6 +14,14 @@ My work is focused around:
 Please take a look at my pinned projects to learn more and follow me to see my next projects take shape.
 If you want to help me out, consider becoming a sponsor.
 
+## Compiler Projects (Chronological Order - Oldest first)
+
+1. [Reified](https://www.reddit.com/r/java/comments/qechdf/reified_enhanced_type_parameters_in_java_11_and/) - Implemented Reification in the compiler without inlining
+2. [Optional Desugarer](https://www.reddit.com/r/java/comments/qxnv9g/optionaldesugarer_type_safety_with_no_overhead/) - Optional syntax with no performance overhead
+3. [Named And Optional Parameters](https://www.reddit.com/r/java/comments/siv00z/named_and_optional_parameters_in_java/) - Implemented Named And Optional parameters into the compiler
+4. [ModernProtobuf](https://github.com/Auties00/ModernProtobuf) - Includes a custom implementation of the protobuf compiler, currently rewriting it
+5. [Annotations for module directives](https://github.com/Auties00/jdk/tree/module_directives_annotations) - Custom fork of the JDK that implements annotations for modules directives a proof of concept
+   
 ## Products I've shipped (Chronological Order - Oldest first)
 
 1. [Styders](https://github.com/Auties00/Styders) - Android App for Styling and Customization, fully written in Java
