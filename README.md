@@ -27,6 +27,7 @@ If you want to help me out, consider becoming a sponsor.
 1. [Styders](https://github.com/Auties00/Styders) - Android App for Styling and Customization, fully written in Java
 2. [Reboot Launcher](https://github.com/Auties00/Reboot-Launcher) - Windows Game launcher, written in Dart(Flutter) and C++
 3. [Artemis](https://github.com/Auties00/Artemis) - iOS app to stream HIDIVE content, fully written in Swift(SwiftUI)
+4. [MyBicocca](https://github.com/Auties00/MyBicocca) - Android app that unifies all my undergrad university's services, built using Kotlin(Jetpack compose)
 
 ## Stack
 
